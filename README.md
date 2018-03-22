@@ -5,3 +5,8 @@
 3. npm install 
 4. npm run start
 
+
+
+或者  
+1.yarn 
+2.yarn start
